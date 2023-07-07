@@ -1,0 +1,7 @@
+[[zmienne]]
+[[Algorytmy]]
+[[Funkcje]]
+[[konwersja]]
+[[typy danych]]
+[[instrukcje sterujące]]
+[[OOP]]

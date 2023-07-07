@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "d82318facf8bcf6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f80fb767c74e57f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5c4c6aff06dbf1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78c086cdca29692e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programowanie/PHP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2c677e4ca3d808d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pamięć.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b20785499522861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5eb0d85108d942a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
+            "id": "9d801c9e3cd8d0f3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a01fb780ab7f9c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "67c9e8663a4760cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c5ce851a354f81c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1840e5d089fa900e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b82706263b3356b8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d58b3101b786996",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93d9842e44d2e669",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc7408c52f9c3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ece5fe66eaa408",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programowanie/PHP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3d18d007a56191d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programowanie/PHP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08a5ffa379c1a468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51cd6a0833f57456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programowanie/PHP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78c086cdca29692e",
+  "lastOpenFiles": [
+    "HOME.md",
+    "Programowanie/PHP.md",
+    "Algorytmy.md",
+    "Programowanie/ciwkawe funkcje.md",
+    "books/Emocje.md",
+    "Czy wiesz co czujesz.md",
+    "Untitled 2.canvas",
+    "nauka.md",
+    "Pamięć.md",
+    "Dziennik/2023-07-07.md",
+    "Finanse.md",
+    "Programowanie/Python.md",
+    "zmienne.md",
+    "konwersja.md",
+    "Jak komputer wykonuje program.md",
+    "books/Books.md",
+    "link.md",
+    "Pasted image 20230505093840.png",
+    "OOP.md",
+    "Moduły i pakiety.md",
+    "Tworzenie i wykorzystywanie pakietów.md",
+    "Pasted image 20230507052358.png",
+    "Pasted image 20230507052251.png",
+    "Pasted image 20230507052057.png",
+    "Pasted image 20230507051947.png",
+    "Pasted image 20230507051745.png",
+    "Pasted image 20230507050655.png",
+    "Pasted image 20230507050543.png",
+    "Pasted image 20230507050523.png",
+    "Tworzenie i wykorzystywanie modułów.md",
+    "Pasted image 20230507044709.png",
+    "Nabywanie umiejętności.md",
+    "Dziennik/2023-05-06.md",
+    "Untitled 1.canvas",
+    "Nabywanie wiedzy.md",
+    "Przeciążanie funkcji i operatorów.md",
+    "hermetyzacja i modyfikatory dostępu.md",
+    "Dziedziczenie i polimorfizm.md",
+    "Dziennik",
+    "Untitled.canvas",
+    "Programowanie",
+    "books"
+  ]
+}

@@ -1,0 +1,1 @@
+typy zmiennych int, float, string

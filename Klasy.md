@@ -1,0 +1,2 @@
+[[Tworzenie]]
+[[metody]]
